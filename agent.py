@@ -9,7 +9,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"), transport='rest')
 
 # Usamos el modelo que confirmamos que tienes disponible en tu lista
-model = genai.GenerativeModel('models/gemini-2.0-flash')
+model = genai.GenerativeModel('models/gemini-flash-lite-latest')
 
 def generate_plan(tasks):
     # Formateamos las tareas para que la IA las entienda mejor que un simple string
