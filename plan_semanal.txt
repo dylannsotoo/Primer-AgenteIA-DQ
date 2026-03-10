@@ -1,0 +1,38 @@
+Como experto en productividad y gestión del tiempo, he analizado tus tareas basándome en la urgencia (plazo) y la importancia (impacto potencial, aunque asumiré que todas son importantes para este ejercicio, priorizando la urgencia).
+
+## Prioridad:
+
+1. **Comprar materiales:** (Plazo: 1 día, Duración: 1h) – **Crítica por Urgencia.** Debe hacerse primero para no bloquear otras tareas.
+2. **Preparar presentación:** (Plazo: 2 días, Duración: 3h) – **Alta Urgencia.** Plazo muy corto.
+3. **Reunión de equipo:** (Plazo: 2 días, Duración: 2h) – **Alta Urgencia.** Debe completarse al mismo tiempo que la presentación o justo después.
+4. **Entreno de baloncesto:** (Plazo: 3 días, Duración: 2h) – **Urgencia Media/Alta.** Plazo cercano, es una actividad fija que debe programarse pronto.
+5. **Hacer proyecto IA:** (Plazo: 4 días, Duración: 5h) – **Media Importancia/Bloqueador.** Es la tarea de mayor duración, necesita un bloque de tiempo significativo.
+6. **Ir al gimnasio:** (Plazo: 5 días, Duración: 1h) – **Media Urgencia.** Se puede intercalar entre tareas más pesadas.
+7. **Partido de liga:** (Plazo: 6 días, Duración: 3h) – **Media Urgencia.** Se programa hacia el final de la semana.
+8. **Estudiar Python:** (Plazo: 7 días, Duración: 2h) – **Baja Urgencia (dentro de la semana).** Tiene el plazo más largo y puede dividirse o dejarse para el final de la semana si es necesario.
+
+---
+
+## Plan Semanal:
+
+| Día | Mañana (Bloque 1) | Tarde (Bloque 2) | Noche (Bloque 3) |
+| :--- | :--- | :--- | :--- |
+| **Lunes** | **Comprar materiales** (1h) | **Preparar presentación (Parte 1)** (2h) | Descanso / Flexibilidad |
+| **Martes** | **Reunión de equipo** (2h) | **Preparar presentación (Parte 2)** (1h) / **Proyecto IA (Inicio)** (1h) | **Entreno de baloncesto** (2h) |
+| **Miércoles** | **Proyecto IA (Bloque principal)** (3h) | **Ir al gimnasio** (1h) | Tareas ligeras / Revisión |
+| **Jueves** | **Proyecto IA (Finalización)** (1h) | Tiempo Buffer / Revisión | **Estudiar Python (Parte 1)** (1h) |
+| **Viernes** | Tarea flexible / Buffer | **Partido de liga** (3h) | Descanso |
+| **Sábado** | Descanso / Ocio | **Estudiar Python (Parte 2)** (1h) | Ocio |
+| **Domingo** | Flexibilidad / Preparación | Tiempo libre | Planificación de la próxima semana |
+
+---
+
+## Razón:
+
+He aplicado una estrategia de **"Eat the Frog" (Comerse la rana)** para las tareas más urgentes y he utilizado el principio de **agrupación de tareas (Batching)** y la **Gestión de Energía**.
+
+1. **Urgencia Primero (Lunes/Martes):** Las tareas con plazos de 1 o 2 días (Compra, Presentación, Reunión) se concentran al inicio de la semana. La compra se hace el Lunes por la mañana, asegurando que no haya cuellos de botella.
+2. **Bloqueo de Tiempo para el Proyecto IA:** El Proyecto IA (5h) es la tarea de mayor duración y se aborda inmediatamente después de resolver las urgencias críticas (Martes/Miércoles). Se le asignan bloques grandes para fomentar el estado de *flow*.
+3. **Integración de Obligaciones Fijas:** Las actividades deportivas con plazo (Baloncesto y Gimnasio) se intercalan en el medio de la semana (Martes Noche y Miércoles Tarde) para mantener el ritmo y despejar la mente antes de la segunda mitad de semana.
+4. **Tareas de Largo Plazo al Final:** Estudiar Python (7 días) y el Partido de Liga (6 días) se gestionan al final de la semana. Python se divide en dos sesiones cortas (Jueves/Sábado) para facilitar la retención, mientras que el partido se programa el Viernes por la tarde/noche, permitiendo una posible relajación el fin de semana.
+5. **Buffer:** El jueves y el domingo se dejan como días con menor carga formal para absorber posibles retrasos de las tareas críticas de los primeros días o para dedicar tiempo a la reflexión y la planificación.
